@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ff133c-ba8c-4ff6-a225-368e0e60ce10" name="Changes" comment="" />
+    <list default="true" id="00ff133c-ba8c-4ff6-a225-368e0e60ce10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Math.algo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Math.algo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Math.algo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Math.algo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Math.algo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Math.algo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SinCadenas/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SinCadenas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SinCadenas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SinCadenas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,13 +46,6 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/REPOSITORIO/programacion android/JAVA/bootcamp/ValidacionTelefono/src/Main.java&quot;
   }
 }</component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
