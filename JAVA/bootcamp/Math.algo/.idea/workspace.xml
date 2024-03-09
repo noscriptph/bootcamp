@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dd913e2-0fb0-4987-a2e4-f0ec70c1bd4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ValidacionTelefono/.idea/ValidacionTelefono.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidacionTelefono/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidacionTelefono/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglando/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglando/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calculadora3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CondicionalesIf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CondicionalesIf/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SinCadenas/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SinCadenas/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SinCadenas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SinCadenas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ValidacionTelefono/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidacionTelefono/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion4Calculadora/src/CalculadoraBootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicionalswitch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Condicionalswitch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leccion4Calculadora/.idea/artifacts/leccion4Calculadora_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leccion4Calculadora/.idea/artifacts/leccion4Calculadora_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leccion4Calculadora/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +27,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
