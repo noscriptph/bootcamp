@@ -10,8 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fbc1324-f2cb-4271-aeae-c3873261ad46" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CondicionalesIf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CondicionalesIf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CondicionalesIf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CondicionalesIf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicionalswitch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Condicionalswitch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iterando/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterando/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iterando/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterando/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Math.algo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Math.algo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/REPOSITORIO/programacion android/JAVA/bootcamp/SUMANDODEL1AL10",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
