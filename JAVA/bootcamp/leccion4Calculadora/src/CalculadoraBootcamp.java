@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class CalculadoraBootcamp {
     /**
-     * @author Agustín Romero
+     * @author Victor Paillacar
      * @param args
      */
     public static void main(String[] args) {

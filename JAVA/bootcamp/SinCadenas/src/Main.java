@@ -45,9 +45,17 @@ public class Main {
             txt1 = cad2.substring(posicion1);
             txt2 = cad2.substring(posicion2);
 
-          /*  for(int i=0; i<largoCad; i++) {
-            }*/
+            for(long i=0; i<largoCad; i++) {
+                if (txt1.contains(terminoDeBusqueda2) || txt2.contains(terminoDeBusqueda2)) {
+                    cantidadDeTerminoBuscado++;
 
+                }
+                posicion1++;
+                posicion2++;
+                txt1 = cad2.substring(posicion1);
+                txt2 = cad2.substring(posicion2);
+            }
+            System.out.println("El termino ["+ terminoDeBusqueda + "] se repite un total de "+ cantidadDeTerminoBuscado+ " veces.");
         } else if (respuesta.equals("no")) {
             System.out.println("Ingrese el texto que quiere revisar:");
             cad=scanner.next();

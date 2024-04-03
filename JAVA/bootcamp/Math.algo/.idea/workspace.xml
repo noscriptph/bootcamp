@@ -5,11 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dd913e2-0fb0-4987-a2e4-f0ec70c1bd4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../CondicionalesIf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CondicionalesIf/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CondicionalesIf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CondicionalesIf/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Condicionalswitch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Condicionalswitch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Iterando/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterando/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/Figura.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/src/cl/calculosGeometricos/Class/Figura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/src/cl/calculosGeometricos/Class/areaCirculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/src/cl/calculosGeometricos/Class/areaRectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figura/src/cl/calculosGeometricos/Class/areaTriangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerenciaBootcamps/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerenciaBootcamps/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerenciaBootcamps/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerenciaBootcamps/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerenciaBootcamps/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerenciaBootcamps/HerenciaBootcamps.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerenciaBootcamps/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerenciaBootcamps/src/cl/herenciabootcamp/clases/Persona.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Iterando/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterando/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leccion4Calculadora/src/CalculadoraBootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leccion4Calculadora/src/CalculadoraBootcamp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,26 +46,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/REPOSITORIO/programacion android/JAVA/bootcamp/SinCadenas",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/REPOSITORIO/programacion android/JAVA/bootcamp/SinCadenas&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
